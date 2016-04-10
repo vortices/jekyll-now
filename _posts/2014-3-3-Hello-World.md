@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Parisitic Vortex will clean your mind !
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the first trial blog post of the vortices group. The site code is hosted at github and we promise to bring more turbulent vortices to cleanse your brains from utter shit ! :D :D 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This blog site uses Jekyll for blog rendering . Thanks and see you soon ...
